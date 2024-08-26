@@ -11,5 +11,5 @@ import Day10
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    Day10.part1()
+    Day10.part2()
     # Day9.part2()
