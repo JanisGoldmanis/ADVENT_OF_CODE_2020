@@ -7,8 +7,9 @@ import Day6
 import Day7
 import Day8
 import Day9
+import Day10
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    Day9.part1()
-    Day9.part2()
+    Day10.part1()
+    # Day9.part2()
